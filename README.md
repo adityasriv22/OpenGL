@@ -1,2 +1,2 @@
 # OpenGL Programmes
-A list of programems in opengl
+A list of programmes in opengl
